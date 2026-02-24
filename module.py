@@ -30,3 +30,4 @@ def xoa_san_pham_theo_id(ma_can_xoa):
     #     danh_sach_sp.pop(vi_tri)
     #     return True
     # return False
+    ggggg
