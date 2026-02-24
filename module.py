@@ -26,7 +26,7 @@ def xoa_san_pham_theo_id(ma_can_xoa):
         if danh_sach_sp[i]["id"] == ma_can_xoa:
             vi_tri = i
             break
-    if vi_tri != -1:
-        danh_sach_sp.pop(vi_tri)
-        return True
-    return False
+    # if vi_tri != -1:
+    #     danh_sach_sp.pop(vi_tri)
+    #     return True
+    # return False
